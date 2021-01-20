@@ -139,7 +139,7 @@
     "graphql-tag": "^2.10.1",
     "graphql-tools": "^4.0.6",
     "graphql-transport-electron": "drdgvhbh/graphql-transport-electron",
-    "immer": "^1.5.0",
+    "immer": "^8.0.1",
     "platform-folders": "^0.2.7",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
